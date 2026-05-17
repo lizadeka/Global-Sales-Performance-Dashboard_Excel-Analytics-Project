@@ -118,7 +118,8 @@ An interactive Excel dashboard was created to visualize key business metrics and
 ## 📷 Dashboard Preview
 
 <img width="1152" height="595" alt="image" src="https://github.com/user-attachments/assets/b0a96edc-1c6f-45c0-93b9-15acee922391" />
-<img width="1151" height="682" alt="image" src="https://github.com/user-attachments/assets/83c11230-ae01-4d52-9076-cb1b622b23d0" />
+<img width="1151" height="685" alt="image" src="https://github.com/user-attachments/assets/e683c4ee-5f35-4044-8c6d-e491f9e28132" />
+
 
 ---
 
